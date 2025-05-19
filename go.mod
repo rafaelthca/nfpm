@@ -1,4 +1,4 @@
-module github.com/rafaelthca/nfpm/cmd/nfpm
+module github.com/rafaelthca/nfpm
 
 go 1.23.0
 
