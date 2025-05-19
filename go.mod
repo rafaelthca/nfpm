@@ -1,4 +1,4 @@
-module github.com/goreleaser/nfpm/v2
+module github.com/rafaelthca/nfpm/cmd/nfpm
 
 go 1.23.0
 
